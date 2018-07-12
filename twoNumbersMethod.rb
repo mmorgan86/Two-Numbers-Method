@@ -16,7 +16,7 @@ def multiply_two_nums(num1, num2)
 end
 
 def divide_two_nums(num1, num2)
-  num1 / num2
+  num1 / num2.to_f
 end
 
 
